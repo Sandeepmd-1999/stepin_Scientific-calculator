@@ -11,6 +11,19 @@ This system supports some of the following type of operation:
 
 ![images](https://user-images.githubusercontent.com/83118255/132312990-17d1edbf-3abd-42b6-a421-9734e56193b2.jpg)
 
+## Examples
+
+| Input| Output|
+|:---:|:---:|
+|7+4| 11|
+|7-5| 2|
+|log(2)| 0.301|
+|sqrt(9)| 3|
+|sin(30)| 0.5|
+|cos(30)| 0.86|
+|tan(45)| 1|
+
+
 ## 4W's and 1'H
 ## Who:
     1. Students
