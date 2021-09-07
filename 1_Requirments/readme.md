@@ -7,6 +7,10 @@ This system supports some of the following type of operation:
 1. Addition 2. Subtraction 3. Multiplication 4. Division 5. Logarithim 6. Power
 7. Squareroot 8. Sine 9. Cosine 10. Tangent 11. Contagent 12. Cosecant 13. Secant 
 
+## SWOT Analysis
+
+![images](https://user-images.githubusercontent.com/83118255/132312990-17d1edbf-3abd-42b6-a421-9734e56193b2.jpg)
+
 ## 4W's and 1'H
 ## Who:
     1. Students
