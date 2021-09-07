@@ -9,11 +9,17 @@ A digital calculator is a type of electronic calculator, usually but not always 
 ## What:
    A Person can perform all the mathematical operation and can see the result of it.
 ## When:
-    At the stage of problems.
+    At the stage of solving the numerical problems.
 ## Where:
    Used for education purposes.
    used in shops.
 ## How:
    This project can perform various calculations and make user's tasks smooth and effortless.
    
-    
+ # Detail Requirements
+ ## High level Requirements
+ 
+ | ID | Description | Status (Implemented/Future)|
+ |:---:|:---:|:---:|
+ |HLR-1| U
+ 
