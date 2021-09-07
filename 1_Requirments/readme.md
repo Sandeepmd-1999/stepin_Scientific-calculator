@@ -2,6 +2,11 @@
 ## Introduction
 A digital calculator is a type of electronic calculator, usually but not always handheld, designed to calculate problems in science, engineering, and mathematics. They have completely replaced slide rules in traditional applications, and are widely used in both education and professional settings.In certain contexts such as higher education, scientific calculators have been superseded by graphing calculators, which offer a superset of digital calculator functionality along with the ability to graph input data and write and store programs for the device.
 
+## Features
+This system supports some of the following type of operation:
+1. Addition 2. Subtraction 3. Multiplication 4. Division 5. Logarithim 6. Power
+7. Squareroot 8. Sine 9. Cosine 10. Tangent 11. Contagent 12. Cosecant 13. Secant 
+
 ## 4W's and 1'H
 ## Who:
     1. Students
@@ -19,7 +24,15 @@ A digital calculator is a type of electronic calculator, usually but not always 
  # Detail Requirements
  ## High level Requirements
  
- | ID | Description | Status (Implemented/Future)|
+ | ID | Description | Status (Implemented)|
  |:---:|:---:|:---:|
- |HLR-1| U
+ |HLR-1| User shall be able to upload the input data |Implemented|
+ |HLR-2| System output must display data without any error|Implemented|
+ 
+ ## Low level Requirements:
+ 
+ | ID | Description | Status (Implemented)|
+ |:---:|:---:|:---:|
+ |LLR1| User shall be able to read the output data| Implemented|
+ 
  
