@@ -9,3 +9,5 @@
 [![C/C++ CI](https://github.com/Sandeepmd-1999/stepin_Scientific-calculator/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Sandeepmd-1999/stepin_Scientific-calculator/actions/workflows/c-cpp.yml)
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/Sandeepmd-1999/stepin_Scientific-calculator/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sandeepmd-1999/stepin_Scientific-calculator/actions/workflows/cppcheck.yml)
+
+[![Contribution Check - Git Inspector](https://github.com/Sandeepmd-1999/stepin_Scientific-calculator/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sandeepmd-1999/stepin_Scientific-calculator/actions/workflows/gitinspector.yml)
