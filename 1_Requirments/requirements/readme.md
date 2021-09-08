@@ -43,13 +43,24 @@ This system supports some of the following type of operation:
  
  | ID | Description | Status (Implemented)|
  |:---:|:---:|:---:|
- |HLR-1| User shall be able to upload the input data |Implemented|
- |HLR-2| System output must display data without any error|Implemented|
+ |HLR_1| User shall be able to upload the input data |Implemented|
+ |HLR_2| User shall be able to upload airthematic operations that are add sub multiply division|Implemented|
+ |HLR_3|User shall be able to upload other operations that are power log sqrt|Implemented|
+ |HLR_4|User shall be able to upload trignometric operation that are sine cos tan cot cosec sec|Implemented|
  
  ## Low level Requirements:
  
  | ID | Description | Status (Implemented)|
  |:---:|:---:|:---:|
- |LLR1| User shall be able to read the output data| Implemented|
+ |LLR1| User shall be able to read the output data without any error| Implemented|
+ |LLR_2|Addition of two numbers|Implemented|
+ |LLR_3|Subtraction of two numbers|Implemented|
+ |LLR_4|Multiplication of two numbers|Implemented|
+ |LLR_5|Division of two numbers|Implemented|
+ |LLR_6|log of base 10 with one input|Implemented|
+ |LLR_7|squareroot of any one number|Implemented|
+ |LLR_8|power of two numbers|Implemented|
+ 
+ 
  
  
